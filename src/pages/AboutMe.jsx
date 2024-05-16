@@ -3,12 +3,8 @@ export default function About() {
       <div>
         <h1>About Page</h1>
         <p>
-          Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-          Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-          mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-          lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-          imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-          in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
+        Currently residing in California, I am a full-stack web developer attending the UCLA bootcamp for web development. I will graduate from this rigorous course in June of 2024! My goal is to have a solid foundation of web development after graduating so that I may 
+        further expand my knowledge for both in my professional and personal life.
         </p>
       </div>
     );
