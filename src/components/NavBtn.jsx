@@ -5,14 +5,14 @@ function NavBtn() {
     const currentPage = useLocation().pathname;
 
   return (
-    <ul className="nav nav-tabs">
+    <ul className="nav nav-tabs ul">
       <li className="nav-item">
         <Link
           to="/"
         // conditional active link 
           className={currentPage === '/' ? 'nav-link active' : 'nav-link'}
         >
-          AboutMe
+          About
         </Link>
       </li>
       <li className="nav-item">
