@@ -1,5 +1,5 @@
 import Container from "react-bootstrap/Container";
-import Row from 'react-bootstrap/Row';
+// import Row from 'react-bootstrap/Row';
 import Card from '../components/Card'
 
 
@@ -11,10 +11,11 @@ export default function Portfolio() {
         Here are previews of some of my works I've created! From creating simple applications to more complicated ones that require backend databases, you'll be able to find that I have signicantly grown my knowledge and skills throughout these past months.
         </p>
         <Container>
-          <Row>
+          {/* <Row> */}
           <Card/>
-          <Card/>
-          </Row>
+          {/* <Card/>
+          <Card/> */}
+          {/* </Row> */}
         </Container>
       </>
     );
